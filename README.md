@@ -1,4 +1,4 @@
-QQLight机器人WebSocket插件Node.js绑定
+QQLight机器人[WebSocket插件](https://github.com/Chocolatl/qqlight-websocket)Node.js绑定
 
 ## 安装
 
